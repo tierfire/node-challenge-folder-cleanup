@@ -20,7 +20,8 @@ photos/
 
 ```
 
-1. Unpack the provided tarball of directories.
+1. Clone this repository locally and install `node` >= 10.
+2. Run the index.js as `node ./index.js ./folders.tgz`.
 2. Use `node` to write a script which transforms the flat direcotry strcuture into a hierarchy.
 3. Don't keep anything with `Copy -`.
 4. Days with labels or tags should be placed in the month folder they belong to.
